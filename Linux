@@ -1,0 +1,2 @@
+a. Create a user named javed on App server 1 within the Stratos Datacenter. Assign a unique UID 1496 and designate the home directory as /var/www/javed.
+ b. Create a group named nautilus_developers across all App servers within the Stratos Datacenter. Add the user kano into the nautilus_developers group on all App servers. If the user doesn't exist, create it as well.
